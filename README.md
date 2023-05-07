@@ -1,2 +1,2 @@
 # fine-tuning-probing
-Course work in 3 year
+Course work in the third year
