@@ -3,7 +3,7 @@ Third year course work.
 
 The repository consists of:
 - "Train.ipynb" - notebook for fine-tuning wav2vec model 
-- "Analysis.ipynb" - notebook with code for expariments
+- "Analysis.ipynb" - notebook with code for experiments
 - "What Wav2Vec-2.0 Learns While Fine-tuning to New Language.pdf" - text
 - "vocab.json" - file with the dictionary of trained model
 
